@@ -19,6 +19,7 @@ public class PointApp {
 		System.out.println(p.equals(p01));
 		System.out.println(p.equals(p02));
 		
+		System.out.println(p);
 	}
 	
 }
